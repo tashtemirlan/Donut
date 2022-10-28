@@ -1,8 +1,19 @@
 # Donut Flutter app
 
+**Hello! Here is a spinning donut with background music while spin. Beautiful and peacefull time spending** 
+# Project Idea
+
+**The idea for this project was to create a spinning donut flutter app, which can change color and while spinning will play music**
+* **Create 3d donut with symbols**
+* **Make donut spin**
+* **Create buttons to change color and play music**
+* **Make evrything work together**
+
+
+# Overall
  * Donut can change color
  
- * While Donut spin music is played from https://www.youtube.com/watch?v=_VONMkKkdf4
+ * While Donut spin music is played from  [here](https://www.youtube.com/watch?v=_VONMkKkdf4)
 
  * You can stop spinning anytime 
 
